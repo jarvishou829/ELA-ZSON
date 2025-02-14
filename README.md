@@ -1,8 +1,14 @@
 # ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning
 
+<p align=“center”> 
+<img src=".\teaser.png" width="600"> 
+</p>
+
+Real-world Experiments
+
 https://github.com/user-attachments/assets/0055efa5-64f8-4e34-9cb5-b29451ac77c9
 
-<img src=".\teaser.png"> 
+
 
 
 
