@@ -12,7 +12,9 @@ Our experimental results on the HM3D benchmark demonstrate a 16.7\% point improv
 
 Real-world Experiments
 
-https://github.com/user-attachments/assets/0055efa5-64f8-4e34-9cb5-b29451ac77c9
+<video width="320" height="240" controls>
+<source src="movie.mp4" type=".\real.mp4">
+</video>
 
 The LLM agent takes user instructions as input and manages the optional action choices according to the prompts and data flow. Optional actions include exploring and recording the scene, constructing scene memory representation, planning, and executing navigation. Obstacles and error recognition together with iterative attempts are available.
 
