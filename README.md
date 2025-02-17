@@ -1,7 +1,7 @@
 # ELA-ZSON: Efficient Layout-Aware Zero-Shot Object Navigation Agent with Hierarchical Planning
 
 <p align=“center”> 
-<img src=".\teaser.png" width="600"> 
+<img src=".\figures\teaser.png" width="600"> 
 </p>
 
 We introduce **ELA-ZSON**, an **Efficient Layout-Aware Zero-Shot Object Navigation** (ZSON) approach designed for **complex multi-room indoor environments**.
@@ -14,30 +14,30 @@ Our experimental results on the HM3D benchmark demonstrate a **16.7\% point impr
 
 Navigation examples
 
-<img src=".\1.gif" width="480"> 
-<img src=".\2.gif" width="480"> 
-<img src=".\3.gif" width="480"> 
+<img src=".\figures\1.gif" width="480"> 
+<img src=".\figures\2.gif" width="480"> 
+<img src=".\figures\3.gif" width="480"> 
 
 Obstacle avoidance examples
 
-<img src=".\4.gif" width="480"> 
+<img src=".\figures\4.gif" width="480"> 
 
 ## Simulated Experiments in HM3D
 scene 17DRP5sb8fy
 
-<img src=".\sim_1.gif" width="480"> 
+<img src=".\figures\sim_1.gif" width="480"> 
 
 scene 2t7WUuJeko7
 
-<img src=".\sim_2.gif" width="480"> 
+<img src=".\figures\sim_2.gif" width="480"> 
 
 scene HxpKQynjfin
 
-<img src=".\sim_3.gif" width="480"> 
+<img src=".\figures\sim_3.gif" width="480"> 
 
 RPmzsHmrrY
 
-<img src=".\sim_4.gif" width="480"> 
+<img src=".\figures\sim_4.gif" width="480"> 
 
 ## Pipeline
 
@@ -45,14 +45,14 @@ The LLM agent takes user instructions as input and manages the optional action c
 
 The main components design is two-fold: **hierarchical planning** based on topo-layout and dense scene memory, **LLM-powered agent** that conducts the process from exploration to exploitation.
 
-<img src=".\method.png"> 
+<img src=".\figures\method.png"> 
 
 ## Primary experiment results
 
-<img src=".\exp_1.png">
+<img src=".\figures\exp_1.png">
 
-<img src=".\exp_1.png">
+<img src=".\figures\exp_1.png">
 
 ## Embodiment construction
 
-<img src=".\robotic.png">
+<img src=".\figures\robotic.png">
