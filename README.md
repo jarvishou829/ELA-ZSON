@@ -18,6 +18,13 @@ Obstacle avoidance examples
 
 <img src=".\4.gif"> 
 
+## Simulated Experiments
+
+<img src=".\sim_1.gif"> 
+<img src=".\sim_2.gif"> 
+<img src=".\sim_3.gif"> 
+<img src=".\sim_4.gif"> 
+
 ## Abstract
 
 By planning hierarchically leveraging a global topology map with layout information and detailed scene representation memory, ELA-ZSON achieves both efficient and effective navigation. The process is managed by an LLM-powered agent, ensuring seamless operation from exploration to navigation, without the need for human interaction, complex rewards, or costly training. 
