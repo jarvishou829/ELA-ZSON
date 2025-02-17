@@ -55,4 +55,4 @@ The main components design is two-fold: **hierarchical planning** based on topo-
 
 ## Embodiment construction
 
-<img src=".\figures\robotic.png">
+<img src=".\figures\robotic.png" width="480">
